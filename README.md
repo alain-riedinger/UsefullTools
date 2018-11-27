@@ -53,3 +53,11 @@
 #### Stress testing
 
 [GitHub - ErikEJ/SqlQueryStress: SQL query stress simulator created by Adam Machanic http://sqlblog.com/blogs/adam_machanic/archive/2016/01/04/sqlquerystress-the-source-code.aspx](https://github.com/ErikEJ/SqlQueryStress)
+
+## Monitoring
+
+### Prometheus
+
+#### Querying
+
+[PromQL for Humans](https://timber.io/blog/promql-for-humans/)

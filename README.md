@@ -46,3 +46,10 @@
 
 [tyranid/oleviewdotnet: A .net OLE/COM viewer and inspector to merge functionality of OleView and Test Container](https://github.com/tyranid/oleviewdotnet)
 
+## Database Tools
+
+### SQL Server
+
+#### Stress testing
+
+[GitHub - ErikEJ/SqlQueryStress: SQL query stress simulator created by Adam Machanic http://sqlblog.com/blogs/adam_machanic/archive/2016/01/04/sqlquerystress-the-source-code.aspx](https://github.com/ErikEJ/SqlQueryStress)

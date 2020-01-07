@@ -6,6 +6,8 @@
 
 [C# Online Compiler | .NET Fiddle](https://dotnetfiddle.net/)
 
+[mindmaps](https://www.mindmaps.app/)
+
 ## Editors
 
 ### Development oriented

@@ -8,6 +8,10 @@
 
 [mindmaps](https://www.mindmaps.app/)
 
+[HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+
+[Color Shades Generator - Super Dev Resources](https://superdevresources.com/tools/color-shades#d706c7)
+
 ## Development tools
 
 ### Editors

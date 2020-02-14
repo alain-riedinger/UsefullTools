@@ -12,6 +12,8 @@
 
 [Color Shades Generator - Super Dev Resources](https://superdevresources.com/tools/color-shades#d706c7)
 
+[miniPaint - image editor](https://viliusle.github.io/miniPaint/)
+
 ## Development tools
 
 ### Editors

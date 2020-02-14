@@ -60,6 +60,8 @@
 
 [Greenshot](https://getgreenshot.org/)
 
+[a free multi-purpose color picker for Windows](http://colorcop.net/)
+
 ### JSON
 
 [JSONedit - JSON editor](http://tomeko.net/software/JSONedit/)

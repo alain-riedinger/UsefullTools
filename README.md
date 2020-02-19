@@ -12,6 +12,8 @@
 
 [Color Shades Generator - Super Dev Resources](https://superdevresources.com/tools/color-shades#d706c7)
 
+[Paletton - The Color Scheme Designer](https://paletton.com/#uid=51c0u0krACEhpM5mOGj-PvaAznM)
+
 [miniPaint - image editor](https://viliusle.github.io/miniPaint/)
 
 ## Development tools

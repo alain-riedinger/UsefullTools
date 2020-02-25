@@ -16,6 +16,8 @@
 
 [miniPaint - image editor](https://viliusle.github.io/miniPaint/)
 
+[Free Online Cron Expression Generator and Describer - FreeFormatter.com](https://www.freeformatter.com/cron-expression-generator-quartz.html)
+
 ## Development tools
 
 ### Editors

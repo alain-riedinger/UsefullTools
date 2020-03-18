@@ -184,6 +184,8 @@
 
 [Mark Text](https://marktext.app/)
 
+[funwaywang/Blumind: Blumind is a lightweight Mindmap tool, runs on Windows and coding in C#](https://github.com/funwaywang/Blumind)
+
 ## Database Tools
 
 ### IDE

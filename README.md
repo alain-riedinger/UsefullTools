@@ -138,7 +138,7 @@
 
 ### Miscelleanous 
 
-[voidtools](https://www.voidtools.com/)
+[voidtools - Everything](https://www.voidtools.com/)
 
 [Agent Ransack – Mythicsoft](https://www.mythicsoft.com/agentransack/)
 
@@ -185,6 +185,9 @@
 [Mark Text](https://marktext.app/)
 
 [funwaywang/Blumind: Blumind is a lightweight Mindmap tool, runs on Windows and coding in C#](https://github.com/funwaywang/Blumind)
+[Blumind Google Drive](https://drive.google.com/drive/folders/0B5Ss2pEKU4qPUE5UbVYxNmVUTUE)
+
+[CmapTools | Cmap](https://cmap.ihmc.us/cmaptools/)
 
 ## Database Tools
 

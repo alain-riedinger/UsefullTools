@@ -1,5 +1,7 @@
 # UsefullTools
 
+This is a list of usefull tools that I use in my day to day life.
+
 ## Online tools
 
 [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
@@ -212,3 +214,7 @@
 ### InfluxDB
 
 [CymaticLabs/InfluxDBStudio: InfluxDB Studio is a UI management tool for the InfluxDB time series database.](https://github.com/CymaticLabs/InfluxDBStudio)
+
+# To analyze / check / test / approve
+
+[junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

@@ -218,3 +218,9 @@ This is a list of usefull tools that I use in my day to day life.
 # To analyze / check / test / approve
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
+
+[PySimpleGUI/PySimpleGUI: Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .](https://github.com/PySimpleGUI/PySimpleGUI)
+
+[dddomodossola/remi: Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.](https://github.com/dddomodossola/remi)
+
+[ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux](https://studio.zerobrane.com/)

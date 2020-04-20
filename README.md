@@ -224,3 +224,6 @@ This is a list of usefull tools that I use in my day to day life.
 [dddomodossola/remi: Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.](https://github.com/dddomodossola/remi)
 
 [ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux](https://studio.zerobrane.com/)
+
+[dmitrii-eremin/python-lua: Simple python to lua translator.](https://github.com/dmitrii-eremin/python-lua)
+

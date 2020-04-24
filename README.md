@@ -215,6 +215,10 @@ This is a list of usefull tools that I use in my day to day life.
 
 [CymaticLabs/InfluxDBStudio: InfluxDB Studio is a UI management tool for the InfluxDB time series database.](https://github.com/CymaticLabs/InfluxDBStudio)
 
+# Cheat Sheets
+
+[Bash scripting cheatsheet](https://devhints.io/bash)
+
 # To analyze / check / test / approve
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

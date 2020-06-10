@@ -34,7 +34,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 #### Notepad replacement
 
-[rizonesoft/Notepad3: Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:](https://github.com/rizonesoft/Notepad3)
+[rizonesoft/Notepad3: Notepad like text editor](https://github.com/rizonesoft/Notepad3)
 
 [Textadept](https://foicica.com/textadept/)
 
@@ -58,9 +58,11 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Dgis XSD Diagram](http://regis.cosnier.free.fr/?page=XSDDiagram&nomenu)
 
+[ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux](https://studio.zerobrane.com/)
+
 ### Miscelleanous
 
-[lucasg/Dependencies: A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.](https://github.com/lucasg/Dependencies)
+[lucasg/Dependencies: A rewrite of the old legacy software "depends.exe"](https://github.com/lucasg/Dependencies)
 
 ### Color / images
 
@@ -78,7 +80,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 [OleWoo - Yet another TLB viewer.](http://www.benf.org/other/olewoo/)
 
-[tyranid/oleviewdotnet: A .net OLE/COM viewer and inspector to merge functionality of OleView and Test Container](https://github.com/tyranid/oleviewdotnet)
+[tyranid/oleviewdotnet: A .net OLE/COM viewer and inspector](https://github.com/tyranid/oleviewdotnet)
 
 ### Logs
 
@@ -108,7 +110,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 #### Debugging / Decompiling / Profiling
 
-[Download Debug Diagnostic Tool v2 Update 3 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=58210)
+[Download Debug Diagnostic Tool v2 Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=58210)
 
 [0xd4d/dnSpy: .NET debugger and assembly editor](https://github.com/0xd4d/dnSpy)
 
@@ -126,7 +128,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 [WinSCP :: Official Site :: Free SFTP and FTP client for Windows](https://winscp.net/eng/index.php)
 
-[cbucher/console: This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.](https://github.com/cbucher/console)
+[cbucher/console: This is a modified version of Console 2](https://github.com/cbucher/console)
 
 [KiTTY](http://kitty.9bis.net/)
 
@@ -168,7 +170,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 [SnmpB download | SourceForge.net](https://sourceforge.net/projects/snmpb/)
 
-[Download PortQryUI - User Interface for the PortQry Command Line Port Scanner from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=24009)
+[Download PortQryUI - User Interface for the PortQry Command Line Port Scanner](https://www.microsoft.com/en-us/download/details.aspx?id=24009)
 
 ### Security
 
@@ -186,7 +188,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Mark Text](https://marktext.app/)
 
-[funwaywang/Blumind: Blumind is a lightweight Mindmap tool, runs on Windows and coding in C#](https://github.com/funwaywang/Blumind)
+[funwaywang/Blumind: Blumind is a lightweight Mindmap tool](https://github.com/funwaywang/Blumind)
 [Blumind Google Drive](https://drive.google.com/drive/folders/0B5Ss2pEKU4qPUE5UbVYxNmVUTUE)
 
 [CmapTools | Cmap](https://cmap.ihmc.us/cmaptools/)
@@ -199,7 +201,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 ### SQL Server
 
-[GitHub - ErikEJ/SqlQueryStress: SQL query stress simulator created by Adam Machanic http://sqlblog.com/blogs/adam_machanic/archive/2016/01/04/sqlquerystress-the-source-code.aspx](https://github.com/ErikEJ/SqlQueryStress)
+[GitHub - ErikEJ/SqlQueryStress: SQL query stress simulator](https://github.com/ErikEJ/SqlQueryStress)
 
 ### Oracle
 
@@ -223,11 +225,9 @@ This is a list of usefull tools that I use in my day to day life.
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
 
-[PySimpleGUI/PySimpleGUI: Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .](https://github.com/PySimpleGUI/PySimpleGUI)
+[PySimpleGUI/PySimpleGUI: Create custom layout GUI's simply.](https://github.com/PySimpleGUI/PySimpleGUI)
 
-[dddomodossola/remi: Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.](https://github.com/dddomodossola/remi)
-
-[ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux](https://studio.zerobrane.com/)
+[dddomodossola/remi: Python REMote Interface library.](https://github.com/dddomodossola/remi)
 
 [dmitrii-eremin/python-lua: Simple python to lua translator.](https://github.com/dmitrii-eremin/python-lua)
 

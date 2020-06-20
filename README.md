@@ -4,11 +4,21 @@ This is a list of usefull tools that I use in my day to day life.
 
 ## Online tools
 
+### Development
+
 [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
 
 [C# Online Compiler | .NET Fiddle](https://dotnetfiddle.net/)
 
+[Free Online Cron Expression Generator and Describer - FreeFormatter.com](https://www.freeformatter.com/cron-expression-generator-quartz.html)
+
+[Repl.it - The collaborative browser based IDE](https://repl.it/)
+
+### Office
+
 [mindmaps](https://www.mindmaps.app/)
+
+### Graphics
 
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 
@@ -18,7 +28,9 @@ This is a list of usefull tools that I use in my day to day life.
 
 [miniPaint - image editor](https://viliusle.github.io/miniPaint/)
 
-[Free Online Cron Expression Generator and Describer - FreeFormatter.com](https://www.freeformatter.com/cron-expression-generator-quartz.html)
+### Misc.
+
+[Image Colorization API | DeepAI](https://deepai.org/machine-learning-model/colorizer)
 
 ## Development tools
 
@@ -217,11 +229,17 @@ This is a list of usefull tools that I use in my day to day life.
 
 [CymaticLabs/InfluxDBStudio: InfluxDB Studio is a UI management tool for the InfluxDB time series database.](https://github.com/CymaticLabs/InfluxDBStudio)
 
+### Grafana
+
+[Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
+
 # Cheat Sheets
 
 [Bash scripting cheatsheet](https://devhints.io/bash)
 
-# To analyze / check / test / approve
+[Go cheatsheet](https://devhints.io/go)
+
+# Pile of things... to analyze / check / test / approve
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
 

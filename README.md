@@ -241,6 +241,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Go cheatsheet](https://devhints.io/go)
 
+[Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
+
 # Pile of things... to analyze / check / test / approve
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

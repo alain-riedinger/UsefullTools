@@ -14,6 +14,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Repl.it - The collaborative browser based IDE](https://repl.it/)
 
+[Rosetta Code](https://www.rosettacode.org/wiki/Rosetta_Code)
+
 ### Office
 
 [mindmaps](https://www.mindmaps.app/)

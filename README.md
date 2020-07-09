@@ -226,6 +226,7 @@ This is a list of usefull tools that I use in my day to day life.
 ### Prometheus
 
 [PromQL for Humans](https://timber.io/blog/promql-for-humans/)
+[prometheus/node_exporter: Exporter for machine metrics](https://github.com/prometheus/node_exporter)
 
 ### InfluxDB
 
@@ -234,6 +235,10 @@ This is a list of usefull tools that I use in my day to day life.
 ### Grafana
 
 [Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
+
+### Misc.
+
+[A Deep Dive into Kubernetes Metrics — Part 2 | by Bob Cotton | FreshTracks.io](https://blog.freshtracks.io/a-deep-dive-into-kubernetes-metrics-part-2-c869581e9f29)
 
 # Cheat Sheets
 

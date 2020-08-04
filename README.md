@@ -259,3 +259,6 @@ This is a list of usefull tools that I use in my day to day life.
 [dmitrii-eremin/python-lua: Simple python to lua translator.](https://github.com/dmitrii-eremin/python-lua)
 
 [Blink Mind Desktop | Apps | Electron](https://www.electronjs.org/apps/blink-mind-desktop)
+
+[rxi/lite: A lightweight text editor written in Lua](https://github.com/rxi/lite)
+

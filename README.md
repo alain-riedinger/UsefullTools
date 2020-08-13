@@ -186,6 +186,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Download PortQryUI - User Interface for the PortQry Command Line Port Scanner](https://www.microsoft.com/en-us/download/details.aspx?id=24009)
 
+[iPerf - The TCP, UDP and SCTP network bandwidth measurement tool](https://iperf.fr/)
+
 ### Security
 
 [KeyStore Explorer](https://keystore-explorer.org/)

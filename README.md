@@ -267,3 +267,5 @@ This is a list of usefull tools that I use in my day to day life.
 [GitHub - cboxdoerfer/fsearch: A fast file search utility for Unix-like systems based on GTK+3](https://github.com/cboxdoerfer/fsearch)
 
 [BASH with Debugger and Improved Debug Support and Error Handling](http://bashdb.sourceforge.net/)
+
+[GitHub - evolus/pencil: The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.](https://github.com/evolus/pencil)

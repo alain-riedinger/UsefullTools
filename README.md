@@ -265,3 +265,5 @@ This is a list of usefull tools that I use in my day to day life.
 [rxi/lite: A lightweight text editor written in Lua](https://github.com/rxi/lite)
 
 [GitHub - cboxdoerfer/fsearch: A fast file search utility for Unix-like systems based on GTK+3](https://github.com/cboxdoerfer/fsearch)
+
+[BASH with Debugger and Improved Debug Support and Error Handling](http://bashdb.sourceforge.net/)

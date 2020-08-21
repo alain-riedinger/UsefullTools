@@ -16,6 +16,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Rosetta Code](https://www.rosettacode.org/wiki/Rosetta_Code)
 
+[Grok Debugger](https://grokdebug.herokuapp.com/)
+
 ### Office
 
 [mindmaps](https://www.mindmaps.app/)

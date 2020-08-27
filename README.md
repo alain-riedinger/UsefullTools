@@ -274,3 +274,5 @@ This is a list of usefull tools that I use in my day to day life.
 
 [GitHub - VictoriaMetrics/VictoriaMetrics: VictoriaMetrics - fast, cost-effective and scalable time series database](https://github.com/VictoriaMetrics/VictoriaMetrics)
 
+[NeutralinoJs | Portable and lightweight cross platform application development framework.](https://neutralino.js.org/)
+

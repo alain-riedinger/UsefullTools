@@ -236,6 +236,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [CymaticLabs/InfluxDBStudio: InfluxDB Studio is a UI management tool for the InfluxDB time series database.](https://github.com/CymaticLabs/InfluxDBStudio)
 
+[GitHub - mark-rushakoff/awesome-influxdb: A curated list of awesome projects, libraries, tools, etc. related to InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
+
 ### Grafana
 
 [Grafana: The open observability platform | Grafana Labs](https://grafana.com/)

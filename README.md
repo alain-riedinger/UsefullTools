@@ -22,6 +22,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [mindmaps](https://www.mindmaps.app/)
 
+[Editor.md - Open source online Markdown editor.](https://pandao.github.io/editor.md/en.html)
+
 ### Graphics
 
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)

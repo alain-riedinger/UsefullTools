@@ -34,6 +34,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [miniPaint - image editor](https://viliusle.github.io/miniPaint/)
 
+[Untitled Diagram - diagrams.net](https://app.diagrams.net/?src=about)
+
 ### Misc.
 
 [Image Colorization API | DeepAI](https://deepai.org/machine-learning-model/colorizer)

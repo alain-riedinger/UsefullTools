@@ -287,3 +287,5 @@ This is a list of usefull tools that I use in my day to day life.
 [GitHub - jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 
 [GitHub - jroimartin/gocui: Minimalist Go package aimed at creating Console User Interfaces.](https://github.com/jroimartin/gocui)
+
+[GitHub - rabbitstack/fibratus: A modern tool for the Windows kernel exploration and tracing](https://github.com/rabbitstack/fibratus/)

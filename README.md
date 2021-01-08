@@ -291,3 +291,6 @@ This is a list of usefull tools that I use in my day to day life.
 [GitHub - rabbitstack/fibratus: A modern tool for the Windows kernel exploration and tracing](https://github.com/rabbitstack/fibratus/)
 
 [ARA Records Ansible playbooks](https://github.com/ansible-community/ara)
+
+[GitHub - WerWolv/ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.](https://github.com/WerWolv/ImHex)
+

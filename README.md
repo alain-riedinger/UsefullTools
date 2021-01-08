@@ -289,3 +289,5 @@ This is a list of usefull tools that I use in my day to day life.
 [GitHub - jroimartin/gocui: Minimalist Go package aimed at creating Console User Interfaces.](https://github.com/jroimartin/gocui)
 
 [GitHub - rabbitstack/fibratus: A modern tool for the Windows kernel exploration and tracing](https://github.com/rabbitstack/fibratus/)
+
+[ARA Records Ansible playbooks](https://github.com/ansible-community/ara)

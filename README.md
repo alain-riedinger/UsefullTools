@@ -24,6 +24,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Editor.md - Open source online Markdown editor.](https://pandao.github.io/editor.md/en.html)
 
+[Excalidraw](https://excalidraw.com/)
+
 ### Graphics
 
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)

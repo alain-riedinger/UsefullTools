@@ -296,3 +296,6 @@ This is a list of usefull tools that I use in my day to day life.
 
 [GitHub - WerWolv/ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.](https://github.com/WerWolv/ImHex)
 
+[jart/cosmopolitan: fast portable static native textmode containers](https://github.com/jart/cosmopolitan/?source=korben.info)
+
+[HewlettPackard/netperf: Netperf is a benchmark that can be used to measure the performance of many different types of networking. It provides tests for both unidirectional throughput, and end-to-end latency.](https://github.com/HewlettPackard/netperf)

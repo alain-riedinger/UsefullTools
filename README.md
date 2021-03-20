@@ -313,3 +313,6 @@ This is a list of usefull tools that I use in my day to day life.
 [AllenDang/giu: Cross platform rapid GUI framework for golang based on Dear ImGui.](https://github.com/AllenDang/giu)
 
 [inkyblackness/imgui-go: Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui)](https://github.com/inkyblackness/imgui-go)
+
+[sammyfreg/netImgui: 'Dear Imgui' remote access library and application](https://github.com/sammyfreg/netImgui)
+

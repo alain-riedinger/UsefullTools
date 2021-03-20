@@ -307,3 +307,9 @@ This is a list of usefull tools that I use in my day to day life.
 [GitHub - ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui)
 
 [GitHub - sammyfreg/netImgui: 'Dear Imgui' remote access library and application](https://github.com/sammyfreg/netImgui)
+
+[AllenDang/PipeIt: PipeIt is a text transformation, conversion, cleansing and extraction tool.](https://github.com/AllenDang/PipeIt)
+
+[AllenDang/giu: Cross platform rapid GUI framework for golang based on Dear ImGui.](https://github.com/AllenDang/giu)
+
+[inkyblackness/imgui-go: Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui)](https://github.com/inkyblackness/imgui-go)

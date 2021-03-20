@@ -302,3 +302,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Network utility for sending / receiving TCP, UDP, SSL](https://github.com/dannagle/PacketSender)
 
+[FlatBuffers: FlatBuffers](https://google.github.io/flatbuffers/)
+
+[GitHub - ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui)
+
+[GitHub - sammyfreg/netImgui: 'Dear Imgui' remote access library and application](https://github.com/sammyfreg/netImgui)

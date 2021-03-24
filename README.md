@@ -26,6 +26,8 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Excalidraw](https://excalidraw.com/)
 
+[yEd Live](https://www.yworks.com/yed-live/)
+
 ### Graphics
 
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)

@@ -319,3 +319,5 @@ This is a list of usefull tools that I use in my day to day life.
 [sammyfreg/netImgui: 'Dear Imgui' remote access library and application](https://github.com/sammyfreg/netImgui)
 
 [xsos - sosreport examiner](https://github.com/ryran/xsos)
+
+[A no-frills load testing tool built on bash + curl](https://github.com/ragnarlonn/curl-basher)

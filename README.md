@@ -98,6 +98,8 @@ Several simple criteria are usually leading my choices:
 
 [ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux](https://studio.zerobrane.com/)
 
+[GitHub - evolus/pencil: The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.](https://github.com/evolus/pencil)
+
 #### Miscelleanous
 
 [lucasg/Dependencies: A rewrite of the old legacy software "depends.exe"](https://github.com/lucasg/Dependencies)
@@ -159,6 +161,8 @@ Several simple criteria are usually leading my choices:
 #### Version Control
 
 [Git](https://git-scm.com/)
+
+[GitHub - jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 
 ### System
 
@@ -271,6 +275,39 @@ Several simple criteria are usually leading my choices:
 
 [KDiff3 - Homepage](http://kdiff3.sourceforge.net/)
 
+##### Miscelleanous 
+
+[BASH with Debugger and Improved Debug Support and Error Handling](http://bashdb.sourceforge.net/)
+[Bash Debug - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug)
+
+#### Version Control
+
+[Git](https://git-scm.com/)
+
+[GitHub - jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
+
+#### Frameworks / Libraries
+
+[GitHub - ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui)
+
+#### Miscelleanous 
+
+[GitHub - WerWolv/ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.](https://github.com/WerWolv/ImHex)
+
+### System
+
+#### Shell
+
+[xsos - sosreport examiner](https://github.com/ryran/xsos)
+
+#### Miscelleanous 
+
+[GitHub - cboxdoerfer/fsearch: A fast file search utility for Unix-like systems based on GTK+3](https://github.com/cboxdoerfer/fsearch)
+
+#### Network
+
+[HewlettPackard/netperf: Netperf is a benchmark that can be used to measure the performance of many different types of networking. It provides tests for both unidirectional throughput, and end-to-end latency.](https://github.com/HewlettPackard/netperf)
+
 ### Monitoring
 
 #### Prometheus
@@ -286,66 +323,13 @@ Several simple criteria are usually leading my choices:
 
 [Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
 
-### Misc.
+#### Miscelleanous
 
 [A Deep Dive into Kubernetes Metrics — Part 2 | by Bob Cotton | FreshTracks.io](https://blog.freshtracks.io/a-deep-dive-into-kubernetes-metrics-part-2-c869581e9f29)
 
-## Pile of things... to analyze / check / test / approve
-
-[junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
-
-[PySimpleGUI/PySimpleGUI: Create custom layout GUI's simply.](https://github.com/PySimpleGUI/PySimpleGUI)
-
-[dddomodossola/remi: Python REMote Interface library.](https://github.com/dddomodossola/remi)
-
-[dmitrii-eremin/python-lua: Simple python to lua translator.](https://github.com/dmitrii-eremin/python-lua)
-
-[Blink Mind Desktop | Apps | Electron](https://www.electronjs.org/apps/blink-mind-desktop)
-
-[rxi/lite: A lightweight text editor written in Lua](https://github.com/rxi/lite)
-
-[GitHub - cboxdoerfer/fsearch: A fast file search utility for Unix-like systems based on GTK+3](https://github.com/cboxdoerfer/fsearch)
-
-[BASH with Debugger and Improved Debug Support and Error Handling](http://bashdb.sourceforge.net/)
-
-[GitHub - evolus/pencil: The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.](https://github.com/evolus/pencil)
-
 [GitHub - VictoriaMetrics/VictoriaMetrics: VictoriaMetrics - fast, cost-effective and scalable time series database](https://github.com/VictoriaMetrics/VictoriaMetrics)
 
-[NeutralinoJs | Portable and lightweight cross platform application development framework.](https://neutralino.js.org/)
-
-[UMLet - Free UML Tools for fast UML diagrams](https://www.umlet.com/)
-
-[GitHub - jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
-
-[GitHub - jroimartin/gocui: Minimalist Go package aimed at creating Console User Interfaces.](https://github.com/jroimartin/gocui)
-
-[GitHub - rabbitstack/fibratus: A modern tool for the Windows kernel exploration and tracing](https://github.com/rabbitstack/fibratus/)
-
-[ARA Records Ansible playbooks](https://github.com/ansible-community/ara)
-
-[GitHub - WerWolv/ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.](https://github.com/WerWolv/ImHex)
-
-[jart/cosmopolitan: fast portable static native textmode containers](https://github.com/jart/cosmopolitan/?source=korben.info)
-
-[HewlettPackard/netperf: Netperf is a benchmark that can be used to measure the performance of many different types of networking. It provides tests for both unidirectional throughput, and end-to-end latency.](https://github.com/HewlettPackard/netperf)
-
-[Network utility for sending / receiving TCP, UDP, SSL](https://github.com/dannagle/PacketSender)
-
-[FlatBuffers: FlatBuffers](https://google.github.io/flatbuffers/)
-
-[GitHub - ocornut/imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui)
-
-[GitHub - sammyfreg/netImgui: 'Dear Imgui' remote access library and application](https://github.com/sammyfreg/netImgui)
-
-[AllenDang/PipeIt: PipeIt is a text transformation, conversion, cleansing and extraction tool.](https://github.com/AllenDang/PipeIt)
-
-[AllenDang/giu: Cross platform rapid GUI framework for golang based on Dear ImGui.](https://github.com/AllenDang/giu)
-
-[inkyblackness/imgui-go: Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui)](https://github.com/inkyblackness/imgui-go)
-
-[sammyfreg/netImgui: 'Dear Imgui' remote access library and application](https://github.com/sammyfreg/netImgui)
-
-[xsos - sosreport examiner](https://github.com/ryran/xsos)
+### Performances
 
 [A no-frills load testing tool built on bash + curl](https://github.com/ragnarlonn/curl-basher)
+

@@ -1,6 +1,18 @@
 # UsefullTools
 
-This is a list of usefull tools that I use in my day to day life.
+This is a list of usefull tools that I use in my day to day life.  
+Several simple criteria are usually leading my choices:
+- the tool must fulfill their purpose flawlessly
+- they are free (as in *beer*) and even better Open Source
+- there is no installer
+
+## Cheat Sheets
+
+[Bash scripting cheatsheet](https://devhints.io/bash)
+
+[Go cheatsheet](https://devhints.io/go)
+
+[Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
 ## Online tools
 
@@ -44,11 +56,13 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Image Colorization API | DeepAI](https://deepai.org/machine-learning-model/colorizer)
 
-## Development tools
+## Windows universe
 
-### Editors
+### Development tools
 
-#### Development oriented
+#### Editors
+
+##### Development oriented
 
 [Scintilla and SciTE](https://www.scintilla.org/SciTE.html)
 
@@ -56,21 +70,21 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 
-#### Notepad replacement
+##### Notepad replacement
 
 [rizonesoft/Notepad3: Notepad like text editor](https://github.com/rizonesoft/Notepad3)
 
 [Textadept](https://foicica.com/textadept/)
 
-#### Diff / merge
+##### Diff / merge
 
 [KDiff3 - Homepage](http://kdiff3.sourceforge.net/)
 
-#### Hexa
+##### Hexa
 
 [HxD - Freeware Hex Editor and Disk Editor | mh-nexus](https://mh-nexus.de/en/hxd/)
 
-#### Miscelleanous
+##### Miscelleanous
 
 [ISN AutoIt Studio – IS-Network](https://www.isnetwork.at/isn-autoit-studio/)
 
@@ -84,29 +98,29 @@ This is a list of usefull tools that I use in my day to day life.
 
 [ZeroBrane Studio - Lua IDE/editor/debugger for Windows, Mac OSX, and Linux](https://studio.zerobrane.com/)
 
-### Miscelleanous
+#### Miscelleanous
 
 [lucasg/Dependencies: A rewrite of the old legacy software "depends.exe"](https://github.com/lucasg/Dependencies)
 
-### Color / images
+#### Color / images
 
 [Color Warlock – hamradio's Software Works](http://www.dcmembers.com/hamradio/download/color-warlock/)
 
 [Greenshot](https://getgreenshot.org/)
 
-[a free multi-purpose color picker for Windows](http://colorcop.net/)
+[ColorCop a free multi-purpose color picker for Windows](http://colorcop.net/)
 
-### JSON
+#### JSON
 
 [JSONedit - JSON editor](http://tomeko.net/software/JSONedit/)
 
-### COM / ActiveX
+#### COM / ActiveX
 
 [OleWoo - Yet another TLB viewer.](http://www.benf.org/other/olewoo/)
 
 [tyranid/oleviewdotnet: A .net OLE/COM viewer and inspector](https://github.com/tyranid/oleviewdotnet)
 
-### Logs
+#### Logs
 
 [Download Log Parser 2.2 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
 
@@ -116,9 +130,9 @@ This is a list of usefull tools that I use in my day to day life.
 
 [zarunbal/LogExpert: Windows tail program and log file analyzer.](https://github.com/zarunbal/LogExpert)
 
-### Java
+#### Java
 
-#### Debugging / Decompiling / Profiling
+##### Debugging / Decompiling / Profiling
 
 [java-decompiler/jd-gui: A standalone Java Decompiler GUI](https://github.com/java-decompiler/jd-gui)
 
@@ -126,13 +140,13 @@ This is a list of usefull tools that I use in my day to day life.
 
 [VisualVM: Home](https://visualvm.github.io/)
 
-### .NET
+#### .NET
 
-#### IDE / Develop
+##### IDE / Develop
 
 [LINQPad - The .NET Programmer's Playground](https://www.linqpad.net/)
 
-#### Debugging / Decompiling / Profiling
+##### Debugging / Decompiling / Profiling
 
 [Download Debug Diagnostic Tool v2 Update 3](https://www.microsoft.com/en-us/download/details.aspx?id=58210)
 
@@ -142,13 +156,13 @@ This is a list of usefull tools that I use in my day to day life.
 
 [CodeTrack](http://www.getcodetrack.com/)
 
-### Version Control
+#### Version Control
 
 [Git](https://git-scm.com/)
 
-## System
+### System
 
-### Shell
+#### Shell
 
 [WinSCP :: Official Site :: Free SFTP and FTP client for Windows](https://winscp.net/eng/index.php)
 
@@ -156,7 +170,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 [KiTTY](http://kitty.9bis.net/)
 
-### Zip / Setups
+#### Zip / Setups
 
 [7-Zip](https://www.7-zip.org/)
 
@@ -164,7 +178,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 [Bioruebe/UniExtract2: Universal Extractor 2 is a tool to extract files from any type of archive or installer.](https://github.com/Bioruebe/UniExtract2)
 
-### Miscelleanous 
+#### Miscelleanous 
 
 [voidtools - Everything](https://www.voidtools.com/)
 
@@ -182,7 +196,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 [TreeSize Free | JAM Software](https://www.jam-software.com/treesize_free)
 
-### Network
+#### Network
 
 [Wireshark · Go Deep.](https://www.wireshark.org/)
 
@@ -198,15 +212,15 @@ This is a list of usefull tools that I use in my day to day life.
 
 [iPerf - The TCP, UDP and SCTP network bandwidth measurement tool](https://iperf.fr/)
 
-### Security
+#### Security
 
 [KeyStore Explorer](https://keystore-explorer.org/)
 
 [Portecle: Home](http://portecle.sourceforge.net/)
 
-## Office
+### Office
 
-### Editors
+#### Editors
 
 [Free PDF Reader - Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
@@ -219,34 +233,56 @@ This is a list of usefull tools that I use in my day to day life.
 
 [CmapTools | Cmap](https://cmap.ihmc.us/cmaptools/)
 
-## Database Tools
+### Database Tools
 
-### IDE
+#### IDE
 
 [DBeaver Community | Free Universal Database Tool](https://dbeaver.io/)
 
-### SQL Server
+#### SQL Server
 
 [GitHub - ErikEJ/SqlQueryStress: SQL query stress simulator](https://github.com/ErikEJ/SqlQueryStress)
 
-### Oracle
+#### Oracle
 
 [A tool for Oracle to trace queries like Profiler for sql server](http://www.iacosoft.com/home/tools.asp)
 
-## Monitoring
+### Monitoring
 
-### Prometheus
+[CymaticLabs/InfluxDBStudio: InfluxDB Studio is a UI management tool for the InfluxDB time series database.](https://github.com/CymaticLabs/InfluxDBStudio)
+
+## Linux universe
+
+### Development tools
+
+#### Editors
+
+##### Development oriented
+
+[Scintilla and SciTE](https://www.scintilla.org/SciTE.html)
+
+[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+
+##### Notepad replacement
+
+[Textadept](https://foicica.com/textadept/)
+
+##### Diff / merge
+
+[KDiff3 - Homepage](http://kdiff3.sourceforge.net/)
+
+### Monitoring
+
+#### Prometheus
 
 [PromQL for Humans](https://timber.io/blog/promql-for-humans/)
 [prometheus/node_exporter: Exporter for machine metrics](https://github.com/prometheus/node_exporter)
 
-### InfluxDB
-
-[CymaticLabs/InfluxDBStudio: InfluxDB Studio is a UI management tool for the InfluxDB time series database.](https://github.com/CymaticLabs/InfluxDBStudio)
+#### InfluxDB
 
 [GitHub - mark-rushakoff/awesome-influxdb: A curated list of awesome projects, libraries, tools, etc. related to InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 
-### Grafana
+#### Grafana
 
 [Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
 
@@ -254,15 +290,7 @@ This is a list of usefull tools that I use in my day to day life.
 
 [A Deep Dive into Kubernetes Metrics — Part 2 | by Bob Cotton | FreshTracks.io](https://blog.freshtracks.io/a-deep-dive-into-kubernetes-metrics-part-2-c869581e9f29)
 
-# Cheat Sheets
-
-[Bash scripting cheatsheet](https://devhints.io/bash)
-
-[Go cheatsheet](https://devhints.io/go)
-
-[Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
-
-# Pile of things... to analyze / check / test / approve
+## Pile of things... to analyze / check / test / approve
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
 

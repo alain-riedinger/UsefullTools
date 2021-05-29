@@ -42,6 +42,8 @@ Several simple criteria are usually leading my choices:
 
 ### Graphics
 
+[GitHub - 1j01/jspaint: 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras](https://github.com/1j01/jspaint)
+
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 
 [Color Shades Generator - Super Dev Resources](https://superdevresources.com/tools/color-shades#d706c7)

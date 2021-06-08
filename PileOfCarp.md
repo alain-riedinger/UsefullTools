@@ -4,6 +4,8 @@
 
 [Open source wireframing tool](https://github.com/mydraft-cc/ui)
 
+[A suite of utilities for converting to and working with CSV, the king of tabular file formats.](https://github.com/wireservice/csvkit)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

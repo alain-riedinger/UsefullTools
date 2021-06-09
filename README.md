@@ -30,6 +30,10 @@ Several simple criteria are usually leading my choices:
 
 [Grok Debugger](https://grokdebug.herokuapp.com/)
 
+[Demo App](https://plotly.github.io/react-chart-editor/)
+
+[regex101: build, test, and debug regex](https://regex101.com/)
+
 ### Office
 
 [mindmaps](https://www.mindmaps.app/)
@@ -53,6 +57,8 @@ Several simple criteria are usually leading my choices:
 [miniPaint - image editor](https://viliusle.github.io/miniPaint/)
 
 [Untitled Diagram - diagrams.net](https://app.diagrams.net/?src=about)
+
+[Classic Paint](https://jspaint.app/)
 
 ### Misc.
 

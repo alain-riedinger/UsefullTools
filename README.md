@@ -30,7 +30,7 @@ Several simple criteria are usually leading my choices:
 
 [Grok Debugger](https://grokdebug.herokuapp.com/)
 
-[Demo App](https://plotly.github.io/react-chart-editor/)
+[Plotly editor](https://plotly.github.io/react-chart-editor/)
 
 [regex101: build, test, and debug regex](https://regex101.com/)
 

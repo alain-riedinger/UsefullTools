@@ -6,6 +6,8 @@
 
 [A suite of utilities for converting to and working with CSV, the king of tabular file formats.](https://github.com/wireservice/csvkit)
 
+[GitHub - solemnwarning/rehex: Reverse Engineers' Hex Editor](https://github.com/solemnwarning/rehex?source=korben.info)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

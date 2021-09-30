@@ -34,6 +34,8 @@ Several simple criteria are usually leading my choices:
 
 [regex101: build, test, and debug regex](https://regex101.com/)
 
+[Compiler Explorer](https://godbolt.org/)
+
 ### Office
 
 [mindmaps](https://www.mindmaps.app/)

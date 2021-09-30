@@ -30,8 +30,6 @@ Several simple criteria are usually leading my choices:
 
 [Grok Debugger](https://grokdebug.herokuapp.com/)
 
-[Plotly editor](https://plotly.github.io/react-chart-editor/)
-
 [regex101: build, test, and debug regex](https://regex101.com/)
 
 [Compiler Explorer](https://godbolt.org/)
@@ -61,6 +59,8 @@ Several simple criteria are usually leading my choices:
 [Untitled Diagram - diagrams.net](https://app.diagrams.net/?src=about)
 
 [Classic Paint](https://jspaint.app/)
+
+[Plotly editor](https://plotly.github.io/react-chart-editor/)
 
 ### Misc.
 

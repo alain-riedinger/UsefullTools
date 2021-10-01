@@ -14,6 +14,12 @@
 
 [Linux file search, instant results as you type](https://github.com/DoTheEvo/ANGRYsearch)
 
+[Recoll is a desktop full-text search tool.](https://www.lesbonscomptes.com/recoll/index.html)
+
+[Xapian is an Open Source Search Engine Library, released under the GPL v2+.](https://xapian.org/)
+
+[Personal search and metasearch for the Free Desktop](https://github.com/FabriceColin/pinot)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

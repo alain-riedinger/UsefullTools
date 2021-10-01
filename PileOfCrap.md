@@ -8,6 +8,10 @@
 
 [GitHub - solemnwarning/rehex: Reverse Engineers' Hex Editor](https://github.com/solemnwarning/rehex?source=korben.info)
 
+[A command-line fuzzy finder](https://github.com/junegunn/fzf)
+
+[linux alternative to Everything Search](https://github.com/cboxdoerfer/fsearch)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

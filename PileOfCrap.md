@@ -12,6 +12,8 @@
 
 [linux alternative to Everything Search](https://github.com/cboxdoerfer/fsearch)
 
+[Linux file search, instant results as you type](https://github.com/DoTheEvo/ANGRYsearch)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

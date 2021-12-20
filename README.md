@@ -110,6 +110,8 @@ Several simple criteria are usually leading my choices:
 
 [GitHub - evolus/pencil: The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.](https://github.com/evolus/pencil)
 
+[Sourcetrail - The open-source cross-platform source explorer](https://www.sourcetrail.com/)
+
 #### Miscelleanous
 
 [lucasg/Dependencies: A rewrite of the old legacy software "depends.exe"](https://github.com/lucasg/Dependencies)

@@ -34,6 +34,8 @@ Several simple criteria are usually leading my choices:
 
 [Compiler Explorer](https://godbolt.org/)
 
+[Git Explorer](https://gitexplorer.com/)
+
 ### Office
 
 [mindmaps](https://www.mindmaps.app/)

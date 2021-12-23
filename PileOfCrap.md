@@ -20,6 +20,8 @@
 
 [Personal search and metasearch for the Free Desktop](https://github.com/FabriceColin/pinot)
 
+[GitHub - universal-ctags/ctags: A maintained ctags implementation](https://github.com/universal-ctags/ctags)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

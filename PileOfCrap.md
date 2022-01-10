@@ -28,6 +28,8 @@
 
 [Blink Mind Desktop | Apps | Electron](https://www.electronjs.org/apps/blink-mind-desktop)
 
+[GitHub - lite-xl/lite-xl: A lightweight text editor written in Lua](https://github.com/lite-xl/lite-xl)
+
 [rxi/lite: A lightweight text editor written in Lua](https://github.com/rxi/lite)
 
 [NeutralinoJs | Portable and lightweight cross platform application development framework.](https://neutralino.js.org/)

@@ -22,6 +22,8 @@
 
 [GitHub - universal-ctags/ctags: A maintained ctags implementation](https://github.com/universal-ctags/ctags)
 
+[GitHub - neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

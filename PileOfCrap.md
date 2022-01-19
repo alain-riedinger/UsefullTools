@@ -24,6 +24,8 @@
 
 [GitHub - neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
 
+[The Logfile Navigator | The Logfile Navigator, lnav for short, is an advanced log file viewer for the small-scale.](https://lnav.org/)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

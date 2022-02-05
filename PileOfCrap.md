@@ -26,6 +26,8 @@
 
 [The Logfile Navigator | The Logfile Navigator, lnav for short, is an advanced log file viewer for the small-scale.](https://lnav.org/)
 
+[GitHub - wolfpld/tracy: C++ frame profiler](https://github.com/wolfpld/tracy)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

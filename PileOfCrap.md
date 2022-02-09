@@ -28,6 +28,8 @@
 
 [GitHub - wolfpld/tracy: C++ frame profiler](https://github.com/wolfpld/tracy)
 
+[Automa - A chrome extension for automation](https://www.automa.site/)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

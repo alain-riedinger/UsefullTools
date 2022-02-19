@@ -30,6 +30,8 @@
 
 [Automa - A chrome extension for automation](https://www.automa.site/)
 
+[GitHub - fralau/xmlshow: Settle for LESS: a fast and super-simple XML viewer for command-line](https://github.com/fralau/xmlshow)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

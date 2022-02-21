@@ -36,6 +36,8 @@ Several simple criteria are usually leading my choices:
 
 [Git Explorer](https://gitexplorer.com/)
 
+[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
+
 ### Office
 
 [mindmaps](https://www.mindmaps.app/)

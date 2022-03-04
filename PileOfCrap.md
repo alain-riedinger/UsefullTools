@@ -32,6 +32,8 @@
 
 [GitHub - fralau/xmlshow: Settle for LESS: a fast and super-simple XML viewer for command-line](https://github.com/fralau/xmlshow)
 
+[GitHub - alexhallam/tv: 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.](https://github.com/alexhallam/tv)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

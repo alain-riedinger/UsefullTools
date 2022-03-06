@@ -14,6 +14,8 @@ Several simple criteria are usually leading my choices:
 
 [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
+[Python SpeedSheet](https://speedsheet.io/s/python?select=ahwv)
+
 ## Online tools
 
 ### Development

@@ -36,6 +36,8 @@
 
 [GitHub - milostosic/MTuner: MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms](https://github.com/milostosic/MTuner)
 
+[GitHub - Flow-Launcher/Flow.Launcher: Quick file search & app launcher for Windows with community-made plugins](https://github.com/Flow-Launcher/Flow.Launcher)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

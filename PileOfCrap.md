@@ -2,6 +2,8 @@
 
 ## To process
 
+[GitHub - ansh/jiffyreader.com: A Browser Extension for Bionic Reading on ANY website!](https://github.com/ansh/jiffyreader.com)
+
 [Open source wireframing tool](https://github.com/mydraft-cc/ui)
 
 [A suite of utilities for converting to and working with CSV, the king of tabular file formats.](https://github.com/wireservice/csvkit)

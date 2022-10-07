@@ -42,6 +42,10 @@
 
 [GitHub - Flow-Launcher/Flow.Launcher: Quick file search & app launcher for Windows with community-made plugins](https://github.com/Flow-Launcher/Flow.Launcher)
 
+[Yet Another Dialog](https://github.com/v1cont/yad)
+
+[Zenity Dialogs](https://help.gnome.org/users/zenity/stable/)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

@@ -46,6 +46,8 @@
 
 [Zenity Dialogs](https://help.gnome.org/users/zenity/stable/)
 
+[GitHub - Rem0o/FanControl.Releases: This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.](https://github.com/Rem0o/FanControl.Releases)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

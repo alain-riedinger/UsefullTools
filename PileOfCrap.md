@@ -52,6 +52,8 @@
 
 [Wireflow](https://app.wireflow.co/)
 
+[GitHub - cmderdev/cmder: Lovely console emulator package for Windows](https://github.com/cmderdev/cmder)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

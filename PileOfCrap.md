@@ -54,6 +54,8 @@
 
 [GitHub - cmderdev/cmder: Lovely console emulator package for Windows](https://github.com/cmderdev/cmder)
 
+[GitHub - naaive/orange: Cross-platform local file search engine.](https://github.com/naaive/orange)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

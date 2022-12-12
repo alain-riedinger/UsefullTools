@@ -56,6 +56,8 @@
 
 [GitHub - naaive/orange: Cross-platform local file search engine.](https://github.com/naaive/orange)
 
+[svenstaro/miniserve: 🌟 For when you really just want to serve some files over HTTP right now!](https://github.com/svenstaro/miniserve)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

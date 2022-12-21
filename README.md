@@ -22,6 +22,8 @@ Several simple criteria are usually leading my choices:
 
 [ShellCheck – shell script analysis tool](https://www.shellcheck.net/)
 
+[explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
+
 [C# Online Compiler | .NET Fiddle](https://dotnetfiddle.net/)
 
 [Free Online Cron Expression Generator and Describer - FreeFormatter.com](https://www.freeformatter.com/cron-expression-generator-quartz.html)
@@ -39,8 +41,6 @@ Several simple criteria are usually leading my choices:
 [Git Explorer](https://gitexplorer.com/)
 
 [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
-
-[explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
 
 ### Office
 

@@ -40,6 +40,8 @@ Several simple criteria are usually leading my choices:
 
 [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 
+[explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
+
 ### Office
 
 [mindmaps](https://www.mindmaps.app/)

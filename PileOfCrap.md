@@ -58,6 +58,10 @@
 
 [svenstaro/miniserve: 🌟 For when you really just want to serve some files over HTTP right now!](https://github.com/svenstaro/miniserve)
 
+[GitHub - sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)
+
+[GitHub - mgdm/htmlq: Like jq, but for HTML.](https://github.com/mgdm/htmlq)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

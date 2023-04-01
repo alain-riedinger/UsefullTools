@@ -87,3 +87,6 @@
 [inkyblackness/imgui-go: Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui)](https://github.com/inkyblackness/imgui-go)
 
 [sammyfreg/netImgui: 'Dear Imgui' remote access library and application](https://github.com/sammyfreg/netImgui)
+
+[GitHub - mattermost/focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
+

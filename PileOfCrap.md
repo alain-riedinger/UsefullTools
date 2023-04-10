@@ -66,6 +66,8 @@
 
 [D2 Playground](https://play.d2lang.com/?script=VJExCsJAEEX7OcUDS7GX6Yw5gTdYkmFZ4iZhsqmMd5dsCrWcz8B__FcblJfAPr_SWIomcLAobfChea7f6MBTrgJ_kpXi9e_XrLJXLfIWcZsnL8qWe4ETj3rTBe9F4MJ9yvNazFm6ZGNnSlPzNoXoIZPDkMao3M6yyScAAP__&theme=0&sketch=1&)
 
+[QXmlEdit - simple XML editor](https://qxmledit.org/)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

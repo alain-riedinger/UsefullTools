@@ -62,6 +62,8 @@
 
 [GitHub - mgdm/htmlq: Like jq, but for HTML.](https://github.com/mgdm/htmlq)
 
+[GitHub - red-data-tools/YouPlot: A command line tool that draw plots on the terminal.](https://github.com/red-data-tools/YouPlot)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

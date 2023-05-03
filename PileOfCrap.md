@@ -68,6 +68,8 @@
 
 [QXmlEdit - simple XML editor](https://qxmledit.org/)
 
+[Regedix - The New Regedit](https://regedix.webrox.fr/)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)

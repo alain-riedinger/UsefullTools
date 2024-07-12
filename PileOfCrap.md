@@ -70,6 +70,8 @@
 
 [Regedix - The New Regedit](https://regedix.webrox.fr/)
 
+[GitHub - excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
+
 ## Keep in case of... one day...
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
